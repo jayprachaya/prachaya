@@ -9,8 +9,7 @@ I am a data scientist with a passion for medical research to enhance the quality
 
 ### Education
 * Bachelor's Degree of Health Data Science at [Princess Srisavangavadhana College of Medicine](https://pscm.cra.ac.th/) &
-[King Mongkut’s University of Technology Thonburi](https://cpe.kmutt.ac.th/programs/bachelor_hds), Bangkok, Thailand *(2018-2022)*
-  - GPA 3.42 (2nd Class Honours)
+[King Mongkut’s University of Technology Thonburi](https://cpe.kmutt.ac.th/programs/bachelor_hds), Bangkok, Thailand *(2018-2022)* | GPA 3.42 (2nd Class Honours)
 
 ### Languages
 * TOEIC score: 655
@@ -35,7 +34,7 @@ I am a data scientist with a passion for medical research to enhance the quality
 
 ### Publications
 - [Segmentation of Lung Lobes and Lesions in Chest  CT for the Classification of COVID-19 Severity](https://doi.org/10.21203/rs.3.rs-2466037/v1)
-  - In this study, represent a model for Semantic Segmentation of the lung lobe area and lesions by using 3D-UNet deep learning modeling technology in combination with a pre-trained model, e.g. DenseNet. for COVID-19 severity infection analysis with DSC of 0.93
+  In this study, represent a model for Semantic Segmentation of the lung lobe area and lesions by using 3D-UNet deep learning modeling technology in combination with a pre-trained model, e.g. DenseNet. for COVID-19 severity infection analysis with DSC of 0.93
 
 ### Project
 * **Poverty Estimation from Non-Tradition data (GEE)** *(Feb 2023)*
