@@ -8,8 +8,9 @@ I am a data scientist with a passion for medical research to enhance the quality
 * Github: [@jayprachaya](https://github.com/jayprachaya)
 
 ### Education
-* Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy and King Mongkut’s University of Technology Thonburi (KMUTT), Bangkok, Thailand *(2018-2022)*
-  - Bachelor's Degree of Health Data Science, GPA 3.42 (2nd Class Honours)
+* Bachelor's Degree of Health Data Science at [Princess Srisavangavadhana College of Medicine](https://pscm.cra.ac.th/) &
+[King Mongkut’s University of Technology Thonburi](https://cpe.kmutt.ac.th/programs/bachelor_hds), Bangkok, Thailand *(2018-2022)*
+  - GPA 3.42 (2nd Class Honours)
 
 ### Languages
 * TOEIC score: 655
@@ -28,12 +29,12 @@ I am a data scientist with a passion for medical research to enhance the quality
   - Create a Power BI dashboard to track the performance of the organization's research publications.
   - Supporting the data management unit for ISO/IEC 27001 implementation.
 
-- **Intern** at [Medical bioinformatics program, Siriraj, Mahidol University](https://www.sidmb.org/) *(Jun-Jul 2018)*
+- **Intern** at [Medical bioinformatics program, Siriraj, Mahidol University](https://www.sidmb.org/) *(Jun-Jul 2021)*
   - Developing a computer vision-based image segmentation program to detect dengue virus foci in focus forming assay (FFA) with a specificity rate of 93.75%.
   - Follow this project here: https://github.com/si-medbif/dengue_foci
 
 ### Publications
-- [**Segmentation of Lung Lobes and Lesions in Chest  CT for the Classification of COVID-19 Severity**](https://doi.org/10.21203/rs.3.rs-2466037/v1)
+- [Segmentation of Lung Lobes and Lesions in Chest  CT for the Classification of COVID-19 Severity](https://doi.org/10.21203/rs.3.rs-2466037/v1)
   - In this study, represent a model for Semantic Segmentation of the lung lobe area and lesions by using 3D-UNet deep learning modeling technology in combination with a pre-trained model, e.g. DenseNet. for COVID-19 severity infection analysis with DSC of 0.93
 
 ### Project
