@@ -6,7 +6,7 @@
 * Email: prachayakhomduean@gmail.com
 * Linkedin: [Prachaya Khomduean](https://www.linkedin.com/in/prachaya-khomduean/)
 * Github: [@jayprachaya](https://github.com/jayprachaya)
-* Download: [Curriculum Vitae](https://github.com/jayprachaya)
+* Download: [Curriculum Vitae](/CV2023_Prachaya.pdf)
 
 ### Education
 * Bachelor's Degree of Health Data Science at [Princess Srisavangavadhana College of Medicine](https://pscm.cra.ac.th/) &
