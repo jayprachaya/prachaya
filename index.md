@@ -31,7 +31,7 @@
 
 - **Intern** at [Medical bioinformatics program, Siriraj, Mahidol University](https://www.sidmb.org/) *(Jun-Jul 2021)*
   - Developing a computer vision-based image segmentation program to detect dengue virus foci in focus forming assay (FFA) with a specificity rate of 93.75%.
-  - Follow this project here: https://github.com/si-medbif/dengue_foci
+  - Follow this project [here](https://github.com/si-medbif/dengue_foci)
 
 ### Publications
 - [Segmentation of Lung Lobes and Lesions in Chest  CT for the Classification of COVID-19 Severity](https://doi.org/10.21203/rs.3.rs-2466037/v1)
@@ -52,7 +52,7 @@
   - Created a dashboard using Power BI to effectively visualize the performance of the organization and research KPIs
 * **Person Activity Detection** [github](https://github.com/jayprachaya/ActivityDetect) *(Jun 2022 - Jul 2022)*
   - utilized YOLOv5 to detect human activity in a live video stream from a webcam
-* **CSC app** [github](https://github.com/jayprachaya/csc-app) *(Aug 2021 - May 2022)*
+* **CSC web app** [github](https://github.com/jayprachaya/csc-app) *(Aug 2021 - May 2022)*
   - Predicting precentage of infection, using semantic segmentation technique
 * **Dengue foci** [github](https://github.com/jayprachaya/csc-app) *(Jun 2021 - Jul 2021)*
   - A project aims to count numbers and measure areas of dengue foci from focus forming assay (FFA)
