@@ -1,11 +1,12 @@
 # Hello
-I am a data scientist with a focus on using AI to enhance the quality of healthcare through medical research. My expertise lies in deep learning, particularly in image processing, and I am currently interested in Vision Transformer and Reinforcement Learning. I constantly update the latest developments to stay current in the field.
+> I am a data scientist with a focus on using AI to enhance the quality of healthcare through medical research. My expertise lies in deep learning, particularly in image processing, and I am currently interested in Vision Transformer and Reinforcement Learning. I constantly update the latest developments to stay current in the field.
 
 ### Personal Details
 * Mobile: (+66) 94-659-3030
 * Email: prachayakhomduean@gmail.com
 * Linkedin: [Prachaya Khomduean](https://www.linkedin.com/in/prachaya-khomduean/)
 * Github: [@jayprachaya](https://github.com/jayprachaya)
+* Download: [Curriculum Vitae](https://github.com/jayprachaya)
 
 ### Education
 * Bachelor's Degree of Health Data Science at [Princess Srisavangavadhana College of Medicine](https://pscm.cra.ac.th/) &
