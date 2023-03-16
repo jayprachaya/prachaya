@@ -46,8 +46,8 @@
   - Developed a Q-learning algorithm for obstacle avoidance in robots and created a map for reinforcement learning simulation in Gazebo
 * **Liver lesion detection** *(Feb 2023)*
   - Developed a deep learning model for the detection of liver lesions, utilized YOLOv8
-* **Poverty Estimation from Non-Tradition data (GEE)** *(Feb 2023)*
-  - Performed data cleansing on both structured and unstructured data obtained from Google Earth Engine (GEE).
+* **Skin lesion detection** *(Feb 2023)*
+  - Utilizing the Cira core to detect and categorize skin lesions as malignant or benign, then integrated with the Line API
 * **Research publications dashboard** *(Oct 2022)*
   - Created a dashboard using Power BI to effectively visualize the performance of the organization and research KPIs
 * **Person Activity Detection** [github](https://github.com/jayprachaya/ActivityDetect) *(Jun 2022 - Jul 2022)*
