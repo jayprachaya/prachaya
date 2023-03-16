@@ -75,4 +75,4 @@
 * Reading publications about technology and innovation
 * Stock Investment, particularly in tech companies
 * Attending technology conferences
-* Listening to podcasts
+* Enjoy exercising regularly, with a focus on weightlifting and calisthenics
