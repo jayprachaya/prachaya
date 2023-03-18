@@ -1,5 +1,5 @@
 # Hello
-> I am a data scientist with a focus on using AI to enhance the quality of healthcare through medical research. My expertise lies in deep learning, particularly in image processing, and I am currently interested in Vision Transformer and Reinforcement Learning. I constantly update the latest developments to stay current in the field.
+> I am a data scientist with a passion for medical research to enhance the quality of healthcare with artificial intelligence. My area of expertise lies in deep learning, particularly in image processing, including image detection and segmentation. Currently, I'm interested in Vision Transformer (ViT) and Reinforcement Learning (RL). I constantly update the latest developments in the AI field.
 
 ### Personal Details
 * Mobile: (+66) 94-659-3030
