@@ -1,5 +1,5 @@
 # Hello
-> I am a data scientist with a passion for medical research to enhance the quality of healthcare with artificial intelligence. My area of expertise lies in deep learning, particularly in image processing, including image detection and segmentation. Currently, I'm interested in Vision Transformer (ViT) and Reinforcement Learning (RL). I constantly update the latest developments in the AI field.
+> I am a data scientist with a passion for medical research to enhance the quality of healthcare with artificial intelligence. My area of expertise lies in deep learning, particularly in image processing, including image detection and segmentation. Currently, I'm interested in Vision Transformer (ViT), llm and langchain. I constantly update the latest developments in the AI field.
 
 ### Personal Details
 * Mobile: (+66) 94-659-3030
@@ -22,13 +22,15 @@
 * NLP: Transformer Language Models, Sentiment analysis, Text analytics, Web scraping
 
 ### Experience
-- **Data Research management officer** at [Chulabhorn Learning and Research Center](https://www.cra.ac.th/en/service/centre_of_learning_and_research) *(Aug 2022 - Present)*
+- **Data Research Management Officer** at [Chulabhorn Learning and Research Center](https://www.cra.ac.th/en/service/centre_of_learning_and_research) (Full-time) *(Aug 2022 - Present)*
   - Researching techniques and deep learning models for a medical imaging research project.
   - Analyze and clean the clinical data to support the research project.
-  - Process structured and unstructured data such as clinical data, CT-scans
+  - Process structured and unstructured data such as clinical data, CT-scans.
   - Create a Power BI dashboard to track the performance of the organization's research publications.
   - Supporting the data management unit for ISO/IEC 27001 implementation.
-
+- **Data Analyst** at [NextMed](https://nextmed.co.th/) (Part-time) *(Apr 2023 - May 2023)*
+  - Researching OpenAI plugins, such as Lanchain, to develop a company chatbot focused on information retrieval.
+  - Cleaning the medication data for transfer to the company system.
 - **Intern** at [Medical bioinformatics program, Siriraj, Mahidol University](https://www.sidmb.org/) *(Jun-Jul 2021)*
   - Developing a computer vision-based image segmentation program to detect dengue virus foci in focus forming assay (FFA) with a specificity rate of 93.75%.
   - Follow this project [here](https://github.com/si-medbif/dengue_foci)
