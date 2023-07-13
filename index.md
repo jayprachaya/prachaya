@@ -1,5 +1,5 @@
 # Hello
-> I am a data scientist with a passion for medical research to enhance the quality of healthcare with artificial intelligence. My area of expertise lies in deep learning, particularly in image processing, including image detection and segmentation. Currently, I'm interested in Vision Transformer (ViT), llm and langchain. I constantly update the latest developments in the AI field.
+> I am a data scientist passionate about leveraging artificial intelligence to enhance decision-making in finance and investments. My area of expertise lies in deep learning, particularly in analyzing data and image processing such as yolov8 and Vision Transformer (ViT). Currently, I'm interested in financial portfolio optimization to improve investments and learning how to apply data analytics to finance. I constantly update myself with the latest developments in the AI field.
 
 ### Personal Details
 * Mobile: (+66) 94-659-3030
