@@ -32,6 +32,7 @@
   - Process structured and unstructured data such as clinical data, CT-scans.
   - Create a Power BI dashboard to track the performance of the organization's research publications.
   - Supporting the data management unit for ISO/IEC 27001 implementation.
+  - Implementing a data management system, i.e., CKAN.
 - **Data Analyst** at [NextMed](https://nextmed.co.th/) (Part-time) *(Apr 2023 - May 2023)*
   - Researching OpenAI plugins, such as Lanchain, to develop a company chatbot focused on information retrieval.
   - Cleaning the medication data for transfer to the company system.
