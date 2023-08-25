@@ -15,11 +15,15 @@
 ### Languages
 * TOEIC score: 655
 
-### Skills
+### Tchnical Skills
+* Deep learning for image processing, Yolov8, Vision Transformer
+* NLP: Sentiment analysis, Text analytics, Web scraping
 * Coding with Python, SQL, HTML, CSS, Basic R
 * Experience with Jupyter Notebook/Lab, Colab, Power BI, Power Automate
-* Deep learning for image detection and segmentation, Yolov8, Vision Transformer
-* NLP: Transformer Language Models, Sentiment analysis, Text analytics, Web scraping
+* Tools: Command Line, Git
+
+### Soft Skills
+* Responsibility, Critical Thinking, Problem-solving, Attention to detail, Creativity, Teamwork
 
 ### Experience
 - **Data Research Management Officer** at [Chulabhorn Learning and Research Center](https://www.cra.ac.th/en/service/centre_of_learning_and_research) (Full-time) *(Aug 2022 - Present)*
@@ -59,6 +63,13 @@
 * **Dengue foci** [github](https://github.com/jayprachaya/csc-app) *(Jun 2021 - Jul 2021)*
   - A project aims to count numbers and measure areas of dengue foci from focus forming assay (FFA)
 
+### Certificates
+* Super AI Engineer (Bronze Med) (Aug 2023)
+* Foundation AI (Theory) Certificated by AIAT [credential](https://assessment.aiat.or.th/certificate/be45c216-a3b3-4262-a379-fd3d23b60361) (Dec 2022)
+* Good Clinical Practice: ICH GCP E6(R2) for Investigator and Trial Staff by Chulabhorn Royal Academy [credential](https://github.com/jayprachaya/prachaya/blob/de1749480f7e349b2cabad032c6784483d586c94/Certificate_GCP%202022%20Prachaya%20Khomduean.pdf) (Sep 2022)
+* Perform Foundational Data, ML, and AI Tasks in Google Cloud [credential](https://www.cloudskillsboost.google/public_profiles/df984c13-3863-40b7-8dbd-9299a8f15f92/badges/1820118?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) (Apr 2022)
+* BigQuery for Machine Learning [credential](https://www.cloudskillsboost.google/public_profiles/df984c13-3863-40b7-8dbd-9299a8f15f92/badges/1822070) (Apr 2022)
+
 ### Activities
 * Participated in [Super AI Engineer Season 3: Level 2](https://superai.aiat.or.th/) *(2023)*
 * Participated in [Super AI Engineer Season 3: Level 1](https://superai.aiat.or.th/) *(2022)*
@@ -66,12 +77,6 @@
 * Volunteered for The Princess Mother's Medical Volunteer Foundation at Phayao University *(2020)*
 * Attendance in the Princess Chulabhorn International Oncology Conference (PCIOC 2019) at Centara Grand Hotel & Convention Centre, Bangkok *(2019)*
 * Representative from Faculty of Medicine and Public Health in a field study at Hospital & Public Health Company in Hangzhou and Shanghai, China *(2019)*
-
-### Certificates
-* Super AI Engineer Season 3 Examination Certificated by AIAT [credential](https://assessment.aiat.or.th/certificate/be45c216-a3b3-4262-a379-fd3d23b60361) (Dec 2022)
-* Good Clinical Practice: ICH GCP E6(R2) for Investigator and Trial Staff by Chulabhorn Royal Academy [credential](https://github.com/jayprachaya/prachaya/blob/de1749480f7e349b2cabad032c6784483d586c94/Certificate_GCP%202022%20Prachaya%20Khomduean.pdf) (Sep 2022)
-* Perform Foundational Data, ML, and AI Tasks in Google Cloud [credential](https://www.cloudskillsboost.google/public_profiles/df984c13-3863-40b7-8dbd-9299a8f15f92/badges/1820118?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) (Apr 2022)
-* BigQuery for Machine Learning [credential](https://www.cloudskillsboost.google/public_profiles/df984c13-3863-40b7-8dbd-9299a8f15f92/badges/1822070) (Apr 2022)
 
 ### Interests / Hobbies
 * Reading publications about technology and innovation
