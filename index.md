@@ -1,5 +1,5 @@
-# Hello
-> I am a data scientist passionate about leveraging artificial intelligence to enhance decision-making in finance and investments. My area of expertise lies in deep learning, particularly in analyzing data and image processing such as yolov8 and Vision Transformer (ViT). Currently, I'm interested in financial portfolio optimization to improve investments and learning how to apply data analytics to finance. I constantly update myself with the latest developments in the AI field.
+# Hi there!
+> I'm extremely passionate about using artificial intelligence to enhance decision-making. Throughout my career, I've gained experience in the data field, with a particular focus on data analytics and data engineering. Currently, I'm a learner and I'm keeping myself updated with the latest developments in the field of AI.
 
 ### Personal Details
 * Mobile: (+66) 94-659-3030
@@ -16,11 +16,12 @@
 * TOEIC score: 655
 
 ### Tchnical Skills
-* Deep learning for image processing, Yolov8, Vision Transformer
-* NLP: Sentiment analysis, Text analytics, Web scraping
-* Coding with Python, SQL, HTML, CSS, Basic R
-* Experience with Jupyter Notebook/Lab, Colab, Power BI, Power Automate
-* Tools: Command Line, Git
+* Data Engineering: RapidMiner, Airflow, Azure vm.
+* NLP: Sentiment analysis, Text analytics, Web scraping.
+* Deep learning for image processing, Yolov8, Vision Transformer.
+* Coding with Python, SQL, HTML, CSS, Basic R.
+* Experience with Jupyter Notebook/Lab, Colab, Power BI, Power Automate.
+* Tools: Command Line, Git.
 
 ### Soft Skills
 * Responsibility, Critical Thinking, Problem-solving, Attention to detail, Creativity, Teamwork
@@ -65,19 +66,20 @@
   - A project aims to count numbers and measure areas of dengue foci from focus forming assay (FFA)
 
 ### Certificates
-* Super AI Engineer (Bronze Med) (Aug 2023)
+* Intermediate Data Engineering Certificated by Big Data Institute [credential](https://github.com/jayprachaya/prachaya/blob/c4352552599ad3897ee2fb10346d28fd90f73dc4/DE-Certificate.jpg) (Sep 2023)
+* Super AI Engineer (Bronze Med) [credential](https://github.com/jayprachaya/prachaya/blob/a5b55c357533afb011ca792bcb1b7a7c0f76d9b6/SuperAI-certificate.pdf) (Aug 2023)
 * Foundation AI (Theory) Certificated by AIAT [credential](https://assessment.aiat.or.th/certificate/be45c216-a3b3-4262-a379-fd3d23b60361) (Dec 2022)
 * Good Clinical Practice: ICH GCP E6(R2) for Investigator and Trial Staff by Chulabhorn Royal Academy [credential](https://github.com/jayprachaya/prachaya/blob/de1749480f7e349b2cabad032c6784483d586c94/Certificate_GCP%202022%20Prachaya%20Khomduean.pdf) (Sep 2022)
 * Perform Foundational Data, ML, and AI Tasks in Google Cloud [credential](https://www.cloudskillsboost.google/public_profiles/df984c13-3863-40b7-8dbd-9299a8f15f92/badges/1820118?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) (Apr 2022)
 * BigQuery for Machine Learning [credential](https://www.cloudskillsboost.google/public_profiles/df984c13-3863-40b7-8dbd-9299a8f15f92/badges/1822070) (Apr 2022)
 
 ### Activities
-* Participated in [Super AI Engineer Season 3: Level 2](https://superai.aiat.or.th/) *(2023)*
-* Participated in [Super AI Engineer Season 3: Level 1](https://superai.aiat.or.th/) *(2022)*
-* Attendance in the competition AI Hackathon Online #1 “Covid-19 Image” for classification of Chest X-ray *(2020)*
-* Volunteered for The Princess Mother's Medical Volunteer Foundation at Phayao University *(2020)*
-* Attendance in the Princess Chulabhorn International Oncology Conference (PCIOC 2019) at Centara Grand Hotel & Convention Centre, Bangkok *(2019)*
-* Representative from Faculty of Medicine and Public Health in a field study at Hospital & Public Health Company in Hangzhou and Shanghai, China *(2019)*
+* Winning the first prize in the IT showcase competition organized by the Bank of Thailand. *(2023)*
+* Participated in [Super AI Engineer Season 3](https://superai.aiat.or.th/) *(2023)*
+* Attendance in the competition AI Hackathon Online #1 “Covid-19 Image” for classification of Chest X-ray. *(2020)*
+* Volunteered for The Princess Mother's Medical Volunteer Foundation at Phayao University. *(2020)*
+* Attendance in the Princess Chulabhorn International Oncology Conference (PCIOC 2019) at Centara Grand Hotel & Convention Centre, Bangkok. *(2019)*
+* Representative from Faculty of Medicine and Public Health in a field study at Hospital & Public Health Company in Hangzhou and Shanghai, China. *(2019)*
 
 ### Interests / Hobbies
 * Reading publications about technology and innovation
